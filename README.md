@@ -2,7 +2,7 @@
 
 ## The test has been done with Javascript & Cypress.io
 
-Concept for Automation functional testing using Javascript, Cypress.io and Cucumber. It shows any of solutions for automation test suite for The Cat API. Javascript is the language used to write the test code.
+Concept for Automation functional testing using Javascript, Cypress.io and Cucumber. It shows any of solutions for automation test suite for The Cat API (https://docs.thecatapi.com/). Javascript is the language used to write the test code.
 
 Cypress is a next generation front end testing tool built for the modern web. Cypress is most often compared to Selenium; however Cypress is both fundamentally and architecturally different. Cypress is not constrained by the same restrictions as Selenium. This enables you to write faster, easier and more reliable tests.
 
