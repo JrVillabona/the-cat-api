@@ -42,6 +42,15 @@ npm run cypress:open
 Then select whether you want to run a particular test or if you prefer to run all the tests. Select the browser in which you want to run the tests, remember that Cypress supports Chrome, Edge, Firefox and Electron. After that, click on **Run all specs**.
 Note: Excluding Electron, any browser you want to run Cypress tests in needs to be installed on your local system.
 
+## Test cases:
+
+- GET - List the Cat Breeds - Validate Headers
+- POST - Create a vote - Validate Content
+- GET - List the Categories - Validate Status Code
+- GET - List the Cat Breeds - Validate Negative Status Code
+- DELETE - Delete a Vote - Validate Unauthorized Status Code
+
+
 ## Documentation
 
 - Cypress: https://www.cypress.io/
