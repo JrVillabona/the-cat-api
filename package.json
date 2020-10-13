@@ -1,0 +1,31 @@
+{
+	"name": "the-cat-api",
+	"version": "1.0.0",
+	"description": "API Testing",
+	"main": "index.js",
+	"scripts": {
+		"cy:open": "cypress open",
+		"cy:run": "cypress run"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/JrVillabona/the-cat-api.git"
+	},
+	"keywords": [
+		"Cypress",
+		"API",
+		"Testing",
+		"API",
+		"Rest"
+	],
+	"author": "Julian R Villabona A",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/JrVillabona/the-cat-api/issues"
+	},
+	"homepage": "https://github.com/JrVillabona/the-cat-api#readme",
+	"devDependencies": {
+		"cypress": "^5.3.0",
+		"prettier": "^2.1.2"
+	}
+}
